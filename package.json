@@ -1,0 +1,21 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-glsl": "2.4.1"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "fontfaceobserver": "^2.1.0",
+    "gsap": "^3.10.3",
+    "imagesloaded": "^5.0.0",
+    "three": "^0.139.2"
+  }
+}
